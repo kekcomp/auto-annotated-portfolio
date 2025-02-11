@@ -13,13 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Kek.co is a leading provider of social media growth solutions. Their
-      mission is simple: to empower clients by helping them grow their social
-      media profiles and connect with a larger audience1. By providing targeted
-      services such as likes, views, followers, and comments, Kek.co aims to
-      accelerate growth, allowing clients to focus on creating great content and
-      engaging with their audience.
+    title: KEK COMPANY
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
