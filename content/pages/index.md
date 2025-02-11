@@ -14,8 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Kek.co is a leading provider of social media growth solutions. Their
+      mission is simple: to empower clients by helping them grow their social
+      media profiles and connect with a larger audience1. By providing targeted
+      services such as likes, views, followers, and comments, Kek.co aims to
+      accelerate growth, allowing clients to focus on creating great content and
+      engaging with their audience.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
@@ -84,7 +88,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
